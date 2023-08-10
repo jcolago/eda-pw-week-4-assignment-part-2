@@ -11,3 +11,8 @@ h2{
     background-color: royalblue;
     color: white;
 }
+
+img{
+    height: 300px;
+    width: 500px;
+}
